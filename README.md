@@ -1,2 +1,2 @@
 # ce projet est réalisé en langage golang 
-# utilisa tion des chan
+## utilisation des chan pour traiter les images
