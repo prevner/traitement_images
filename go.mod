@@ -1,4 +1,4 @@
-module traitement_image
+module traitement_images
 
 go 1.20
 
